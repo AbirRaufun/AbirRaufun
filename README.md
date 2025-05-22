@@ -2,6 +2,10 @@
 <h3 align="center">🚀 Machine Learning Enthusiast & Developer | Lifelong Learner</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abirraufun&label=Profile%20views&color=0e75b6&style=flat" alt="abirraufun" />
+</p>
+
+<p align="center">
   <img src="https://github.com/AbirRaufun/AbirRaufun/blob/main/Profile.gif" alt="profile-gif" width="200"/>
 </p>
 
